@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAI1Pu4HHqyVS62PmpggoIQ9-RJAoVh7D4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>588212487126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nxt.baterponto</string>
+	<key>PROJECT_ID</key>
+	<string>bater-ponto-077yfs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bater-ponto-077yfs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:588212487126:ios:11808fece0bd7430191a77</string>
+</dict>
+</plist>

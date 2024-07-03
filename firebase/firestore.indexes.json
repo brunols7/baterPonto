@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "ponto",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "idUser",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "entrada",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
